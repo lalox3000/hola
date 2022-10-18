@@ -1,0 +1,1 @@
+var sound1 = new Audio("y2mate.com - Osito Gominola Todos Los Vídeos Español Gummibär The Gummy Bear_64kbps.p3")
